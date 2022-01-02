@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Hello&fontSize=90&fontColor=703ee5)
-### My Tech 👋
+### 👋 My Tech 
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](github.com/hwangsebin-2/TODO-List)   
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)](github.com/Joowon0220/TODO-List)   
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)](github.com/Joowon0220/TODO-List)
